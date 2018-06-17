@@ -3,7 +3,7 @@
 export JAVA_HOME=/home/docker/jdk1.8.0_171
 
 export HADOOP_HOME=/home/docker/hadoop-2.6.5
-export GRAPHLITE_HOME=//home/docker/GraphLite-0.20
+export GRAPHLITE_HOME=/home/docker/GraphLite-0.20
 
 #export HADOOP_HOME=/usr/local/java/hadoop-2.6.0
 #export GRAPHLITE_HOME=/home/guest/work/hw2/GraphLite-0.20
